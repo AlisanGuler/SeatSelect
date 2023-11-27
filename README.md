@@ -2,7 +2,7 @@
 
 #### by Alişan Güler
 
-# Defination
+# Definition
 - A movie seat selector for movie theaters
 
 # Technologies Used
